@@ -22,3 +22,34 @@ img {
     position: relative;
     top: 200px;
 }
+
+#navigation {
+    position: fixed;
+    right: 0px;
+    top: 0px;
+
+}
+
+.abs1 {
+    position: relative;
+    right: 30px
+}
+
+.abs2 {
+    position: relative;
+    right: 20px;
+}
+
+.abs3 {
+    position: relative;
+    right: 10px;
+}
+
+header {
+    border-bottom: 5px solid navy;
+}
+
+footer {
+    border-top: 5px solid navy;
+}
+
