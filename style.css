@@ -1,3 +1,24 @@
 body {
     background-color: pink;
 }
+
+h1 {
+    text-decoration-line: underline;
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+
+img {
+    position: relative;
+    top: 100px;
+    left: 400px;
+    border: 20px solid crimson;
+}
+
+#contact {
+    text-decoration-line: underline;
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
